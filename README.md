@@ -1,4 +1,4 @@
-# Manajemen Warga CI4 🚀
+# Manajemen Warga CI4 
 
 Aplikasi manajemen data warga berbasis web menggunakan **CodeIgniter 4**.
 Project ini digunakan untuk mengelola data warga seperti tambah, edit, dan simpan data.
